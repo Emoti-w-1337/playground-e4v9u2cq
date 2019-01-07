@@ -1,7 +1,4 @@
-# Welcome!
-
-This Python template lets you get started quickly with a simple one-page playground.
-
+# Python
 ```python runnable
 print('Hello World!')
 ```
